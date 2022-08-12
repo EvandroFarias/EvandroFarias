@@ -82,8 +82,8 @@ Hi, I'm Evandro Farias!
 <br/>
 <p align="center">
 	<a href="https://github.com/EvandroFarias">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EvandroFarias&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EvandroFarias&theme=dark&hide_border=false" alt="bouaskaoun">
 	</a>
 	<br/>
 </p>
