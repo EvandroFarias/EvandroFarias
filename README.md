@@ -6,10 +6,10 @@ Hi, I'm Evandro Farias!
 </h1>
 <p align="center">
 	<a href="https://github.com/EvandroFarias">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=evandrofarias&label=Profile%20views&color=0e75b6&style=flat" alt="evandrofarias" />
 	</a>
 	<a href="https://github.com/EvandroFarias">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+		<img src="https://img.shields.io/github/followers/evandrofarias?label=Followers" alt="evandrofarias" />
 	</a>
 </p>
 <br/>
@@ -28,7 +28,6 @@ Hi, I'm Evandro Farias!
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
