@@ -15,7 +15,7 @@ Hi, I'm Evandro Farias!
 <br/>
 <p align="center">
 	<a href="https://github.com/EvandroFarias">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D97DF7&width=435&lines=Always+learning+new+things+.+.+.;Full+Stack+Web+Developer;Technology+Inthusiast" alt="Typing SVG" /></a>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D97DF7&width=435&lines=Always+learning+new+things+.+.+.;Full+Stack+Web+Developer;Tech+Inthusiast" alt="Typing SVG" /></a>
 </p>
 
 <hr>
@@ -28,6 +28,8 @@ Hi, I'm Evandro Farias!
 🌱 Learning about Java Spring Boot Security and JWT.
 🌟 Main languages: JavaScript, TypeScript, Java
 🚩 Interested in Full Stack Web development
+💬 A person who loves technology and uses as many digital devices as possible.
+
 </pre>
 <hr>
 
