@@ -15,8 +15,7 @@ Hi, I'm Evandro Farias!
 <br/>
 <p align="center">
 	<a href="https://github.com/EvandroFarias">
-		<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D97DF7&width=435&lines=Always+learning+new+things.;Full+Stack+Web+Developer;Technology+Inthusiast" alt="Typing SVG" /></a>">
-	</a>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D97DF7&width=435&lines=Always+learning+new+things.;Full+Stack+Web+Developer;Technology+Inthusiast" alt="Typing SVG" /></a>
 </p>
 
 <hr>
