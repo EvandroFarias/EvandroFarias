@@ -78,35 +78,32 @@ Hi, I'm Evandro Farias!
 ## <a href="https://github.com/EvandroFarias"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ Evandro's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/EvandroFarias">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EvandroFarias&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EvandroFarias&theme=dark&hide_border=false" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=EvandroFarias&theme=dark&hide_border=false" alt="evandrofarias">
 	</a>
 	<br/>
 </p>
 <br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/EvandroFarias">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
-	</a>
-</p>
-<br/>
--->
+
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
 <p align="center">
 	<a href="https://github.com/EvandroFarias">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroFarias&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="evandrofarias">
 	</a>
 	<br/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+<div align="center">
+	<p>✍️  Random dev quote</p>
+	<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
+	<p>😂 Random dev meme</p>
+	<img src="https://random-memer.herokuapp.com/" width="512px"/>
+</div>
