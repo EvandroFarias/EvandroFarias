@@ -101,9 +101,23 @@ Hi, I'm Evandro Farias!
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+
+## ✍️ Random Dev Quote
+<p align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+## 😂 Random Dev Meme
+<p align="center">
+	<img src="https://random-memer.herokuapp.com/" width="512px"/>
+</p>
+
+
+<!--
 <div align="center">
 	<p>✍️  Random dev quote</p>
 	<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
 	<p>😂 Random dev meme</p>
 	<img src="https://random-memer.herokuapp.com/" width="512px"/>
 </div>
+--!>
