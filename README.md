@@ -4,7 +4,7 @@ Hi, I'm Evandro Farias!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<!--
+
 <p align="center">
 	<a href="https://github.com/EvandroFarias">
 		<img src="https://komarev.com/ghpvc/?username=evandrofarias&label=Profile%20views&color=0e75b6&style=flat" alt="evandrofarias" />
@@ -13,7 +13,7 @@ Hi, I'm Evandro Farias!
 		<img src="https://img.shields.io/github/followers/evandrofarias?label=Followers" alt="evandrofarias" />
 	</a>
 </p>
---!>
+
 <br/>
 <p align="center">
 	<a href="https://github.com/EvandroFarias">
@@ -27,7 +27,7 @@ Hi, I'm Evandro Farias!
 📚 I have a studiet at the plataforms Alura, Udemy, StackOverflow and some random articles on the internet.
 📝 I have a strong interest in Backend Development
 🔭 Working on personal Single Page Application project
-🌱 Learning about Java Spring Boot Security and JWT.
+🌱 Learning about AWS and Spring Security.
 🌟 Main languages: JavaScript, TypeScript, Java
 🚩 Interested in Full Stack Web development
 💬 A person who loves technology and uses as many digital devices as possible.
