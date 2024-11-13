@@ -26,9 +26,8 @@ Hi, I'm Evandro Farias!
 💻 I am a self taught Fullstack Developer
 📚 I have a studiet at the plataforms Alura, Udemy, StackOverflow and some random articles on the internet.
 📝 I have a strong interest in Backend Development
-🔭 Working on personal Single Page Application project
-🌱 Learning about AWS and Spring Security.
-🌟 Main languages: JavaScript, TypeScript, Java, Python
+🌱 Learning about AWS.
+🌟 Main languages: JavaScript, TypeScript, Java, Python.
 💬 A person who loves technology and uses as many digital devices as possible.
 
 </pre>
